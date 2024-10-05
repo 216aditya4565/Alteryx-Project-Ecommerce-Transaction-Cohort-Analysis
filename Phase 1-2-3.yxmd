@@ -62,17 +62,17 @@ Query=`Sheet1$`</DefaultAnnotationText>
             </Annotation>
             <MetaInfo connection="Output">
               <RecordInfo>
-                <Field name="transaction_id" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
-                <Field name="product_id" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
-                <Field name="customer_id" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
-                <Field name="transaction_date" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
-                <Field name="online_order" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
-                <Field name="order_status" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
-                <Field name="brand" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
-                <Field name="product_line" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
-                <Field name="list_price" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="Double" />
-                <Field name="standard_cost" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="Double" />
-                <Field name="product_first_sold_date" size="255" source="File: C:\Users\roopm\OneDrive\Desktop\py4e\Alteryx exercise files\Project\Outputs\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="transaction_id" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="product_id" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="customer_id" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="transaction_date" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="online_order" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="order_status" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="brand" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="product_line" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
+                <Field name="list_price" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="standard_cost" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="Double" />
+                <Field name="product_first_sold_date" size="255" source="File: "C:\Users\User\OneDrive\Desktop\Alteryx E_Commerce_Project\cleaned_dataset.xlsx|||`Sheet1$`" type="V_String" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
